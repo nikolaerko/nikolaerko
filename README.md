@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @nikolaerko
-- 👀 I’m interested in everythin
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m ნიკოლოზი ერქომაიშვილი
 - 📫 How to reach me nikolzi.erkomaishvili123@gmail.com
 
 <!---
